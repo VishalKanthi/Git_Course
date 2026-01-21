@@ -1,5 +1,4 @@
-console.log("Welcome to the Git Course");
-
+console.log("Welcome to the git Playlist");
 for(var i=0;i<5;i++){
-    console.log("Medibridgeee");
+    console.log("Zyra");
 }
